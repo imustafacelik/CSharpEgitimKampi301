@@ -395,7 +395,7 @@
             // 
             this.lblMaxCapacityLocation.AutoSize = true;
             this.lblMaxCapacityLocation.Font = new System.Drawing.Font("Calibri", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblMaxCapacityLocation.Location = new System.Drawing.Point(74, 72);
+            this.lblMaxCapacityLocation.Location = new System.Drawing.Point(41, 72);
             this.lblMaxCapacityLocation.Name = "lblMaxCapacityLocation";
             this.lblMaxCapacityLocation.Size = new System.Drawing.Size(37, 29);
             this.lblMaxCapacityLocation.TabIndex = 1;
